@@ -1,6 +1,6 @@
 # Click on the below image to view Demo
 
-[![Demo](https://user-images.githubusercontent.com/32667635/69485030-51c90800-0e60-11ea-941b-8273e42d9f0a.png)](https://app.netlify.com/sites/youthful-montalcini-9e64cd/deploys)
+[![Demo](https://user-images.githubusercontent.com/32667635/69485030-51c90800-0e60-11ea-941b-8273e42d9f0a.png)](https://youthful-montalcini-9e64cd.netlify.com/)
 
 ## ScreenShots
 ![Screenshot (3)](https://user-images.githubusercontent.com/32667635/71325153-c5693e00-250e-11ea-89d7-13f4e8c9a560.png)
