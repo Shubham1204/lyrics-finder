@@ -2,6 +2,9 @@
 
 [![Demo](https://user-images.githubusercontent.com/32667635/69485030-51c90800-0e60-11ea-941b-8273e42d9f0a.png)](https://youthful-montalcini-9e64cd.netlify.com/)
 
+If you enjoy this project, please consider supporting me to continue developing and maintaining it.
+[![paypal-support](https://user-images.githubusercontent.com/32667635/71374712-b3a49b00-25e1-11ea-944e-ff5f4a0b6cfe.jpg)](https://paypal.me/shubhamgupta1204)
+
 ## ScreenShots
 ![Screenshot (3)](https://user-images.githubusercontent.com/32667635/71325153-c5693e00-250e-11ea-89d7-13f4e8c9a560.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/32667635/71325155-c69a6b00-250e-11ea-8295-731de5b69416.png)
